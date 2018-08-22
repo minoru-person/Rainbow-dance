@@ -2,3 +2,4 @@ Step left.
 Step Right. 
 Jump Forward.
 Jump Back.
+Dont do the rainbow dance.
